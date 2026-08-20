@@ -1,0 +1,6 @@
+{
+  "name": "YATRAA",
+  "description": "Ride-hailing & local mobility platform for Delhi-NCR with Bike and Auto booking, Driver Partner portal, Admin operations, and dynamic pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
